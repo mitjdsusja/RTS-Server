@@ -26,10 +26,9 @@
 *.a
 *.lib
 
-
-*.vs
-
 # Executables
 *.exe
 *.out
 *.app
+
+*.vs/
